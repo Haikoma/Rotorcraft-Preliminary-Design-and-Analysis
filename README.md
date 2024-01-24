@@ -3,7 +3,7 @@
 This project report involves the preliminary design and analysis of a light, 6 seater rotorcraft. The sizing of the helicopter and rotor parameteres is done through optimization of the required power for the predefined flight missions. The trim of the helicopter is then computed, and the blade rotation modes are analysed for unstability using a Femap model and NASTRAN analysis. Finally, the ground resonance is discussed using the Deutsch Criterion. A Stability analysis of the model is done using MSC ADAMS including the static and dynamic cases, the response to a gust, and engine failure conditions.
 
 # Tools used
-Matlab, FEMAP, NASTRAN, ADAMS, 
+Matlab, FEMAP, NASTRAN, ADAMS
 
 # Contents
 Design of a rotor-craft by optimization: A preliminary sizing of the helicopter is done using a set of data and flight missions.
